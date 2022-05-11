@@ -1,0 +1,30 @@
+{
+  message: 'Hello Winston!',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2022-05-11T16:09:30.361Z'
+}
+{
+  message: 'Hello Winston !',
+  level: 'info',
+  label: 'right meow!',
+  timestamp: '2022-05-11T16:09:30.368Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-11T18:03:08.548Z'
+}
+{
+  message: 'cannot connect to db. Error: null',
+  level: 'error',
+  label: 'main module',
+  timestamp: '2022-05-11T18:03:08.562Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-11T18:04:08.713Z'
+}

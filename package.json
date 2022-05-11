@@ -10,6 +10,16 @@
   "author": "Max Steiner",
   "license": "ISC",
   "dependencies": {
+    "sqlite3": "^5.0.8",
     "winston": "^3.7.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max-steiner/11_05_2022.git"
+  },
+  "bugs": {
+    "url": "https://github.com/max-steiner/11_05_2022/issues"
+  },
+  "homepage": "https://github.com/max-steiner/11_05_2022#readme"
 }
