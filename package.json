@@ -1,0 +1,15 @@
+{
+  "name": "11_05_2022",
+  "version": "1.0.0",
+  "description": "My Lesson",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Steiner",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.7.2"
+  }
+}
